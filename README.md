@@ -12,7 +12,7 @@ Find the source code here: [cancanye/jdhd-release](https://github.com/cancanye/j
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/cancanye/jdhd-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/cancanye/jdhd-release/main/install.sh)
 ```
 # Docker 安装
 
